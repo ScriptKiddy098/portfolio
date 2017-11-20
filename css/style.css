@@ -7,6 +7,7 @@
  }
  .navbar .navbar-brand {
    color: white;    
+   font-family: 'Lobster', cursive;
  }
  .navbar .navbar-brand:hover{
    color: white;
@@ -120,3 +121,7 @@
  .btn-social i {
     line-height: 45px;
  }
+ 
+ .name { 
+  font-family: 'Lobster', cursive;
+ } 
