@@ -1,6 +1,6 @@
 
  .navbar {    
-   background: black;  
+   background: silver;  
    text-transform: uppercase;
    font-weight: 700;   
    border: none;    
@@ -17,7 +17,7 @@
    color: white;
  }
  .navbar .navbar-nav li a:hover {
-   color: gray;
+   color: lightblue;
  }
  
  .navbar-toggle{
@@ -26,8 +26,9 @@
  }   
 
  header {
-   background: gray;
+   background-image: url("http://www.wallpapermade.com/images/wallpapers/originals/stellar-night-over-manhattan-new-york-city-wallpaper-5178.jpg"); 
    color: white;
+   background-size: 1903px 550px;
  }   
  header img {    
    display: block;
@@ -124,4 +125,28 @@
  
  .name { 
   font-family: 'Lobster', cursive;
+  
  } 
+
+.page-scroll { 
+  font-family: 'Shrikhand', cursive;
+}
+
+.skills { 
+ font-family: 'Press Start 2P', cursive;
+ 
+} 
+
+#main-name { 
+ color:black;
+ font-size:28px;
+} 
+
+.idk { 
+ font-family: 'Monoton', cursive;
+}
+
+#me { 
+font-family: 'Syncopate', sans-serif;
+text-align: center; 
+}
